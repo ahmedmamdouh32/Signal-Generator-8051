@@ -1,0 +1,4 @@
+the project is a signal generator thet takes values [1-9] and produces square wave with frequency of the input but in Kilo scale (ex. 1-> 1KHz).
+hello
+ahmed
+any
