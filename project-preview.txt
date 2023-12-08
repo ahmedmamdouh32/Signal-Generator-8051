@@ -2,3 +2,4 @@ the project is a signal generator thet takes values [1-9] and produces square wa
 hello
 ahmed
 any
+123
