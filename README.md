@@ -1,13 +1,14 @@
-  <img src="https://www.electronics-notes.com/images/waveform-square-wave-01.svg" alt="Square wave" width="500" height="345" align="right">
+<img src="https://www.electronics-notes.com/images/waveform-square-wave-01.svg" alt="Square wave" width="500" height="345" align="right">
 
 <h1>Signal Generator</h1>
 <br>
-<h4>in this project you will find a code that generates Square wave signal from 8051 microcontroller, this signal is important for controlling motors and synchronizing digital circuits.</h4>
+
+<h4>In this project you will find a code that generates Square wave signal from 8051 microcontroller, this signal is important for controlling motors and synchronizing digital circuits.</h4>
 
 <br>
 <br>
 
-<h6>we used assembly language as the default programming language for some reasons:</h6>
+<h6>We used assembly language as the default programming language for some reasons:</h6>
 
 <ul>
   <li>Learning architecture of 8051 MCU in depth.</li>
