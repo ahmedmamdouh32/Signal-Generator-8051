@@ -1,4 +1,4 @@
-<img src="https://www.electronics-notes.com/images/waveform-square-wave-01.svg" alt="Square wave" width="500" height="345" align="right">
+<img src="https://www.electronics-notes.com/images/waveform-square-wave-01.svg" alt="Square wave" width="500" height="360" align="right">
 
 <h1>Signal Generator</h1>
 <br>
